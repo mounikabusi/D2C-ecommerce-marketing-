@@ -53,14 +53,15 @@ Overall Conversion Rate: 7.03%
 
 ## 📁 Project Structure
 
-ecommerce-marketing-funnel/
+```
+📁 E-Commerce-Marketing-Funnel-Analysis
 │
-├── marketing_analysis.sql     # All SQL queries (EDA, funnel, channel, revenue)
-├── dashboard/
-│   └── ecommerce_dashboard.pbix   # Power BI dashboard file
-├── data/
-│   └── d2c_marketing_funnel_data.csv   # Source dataset
+├── marketing_queries.sql
+├── dashboard.pbix
+├── dashboard.png
+├── dataset.csv
 └── README.md
+```
 
 
 ## 📝 SQL Concepts Used
